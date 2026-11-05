@@ -119,6 +119,17 @@ export default hopeTheme({
   },
 
   plugins: {
+     git: {
+    contributors: {
+      info: [
+        {
+          username: "aoe190927",
+          name: "三浦",
+          alias: ["Miu Redrock"],
+        },
+      ],
+    },
+  },
     blog: true,
 
     // Install @waline/client before enabling it
