@@ -12,7 +12,7 @@ export default hopeTheme({
 
   logo: "/aoelogo.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "aoe190927/aoe190927.github.io",
 
   docsDir: "src",
 
@@ -22,7 +22,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "Default footer",
+  footer: "aoe190927",
 
   displayFooter: true,
 
